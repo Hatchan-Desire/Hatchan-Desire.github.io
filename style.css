@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  .social img {
+    height: 30px;
+    margin-left: 10px;
+  }
+  
