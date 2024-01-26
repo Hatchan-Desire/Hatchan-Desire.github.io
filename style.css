@@ -11,6 +11,11 @@ header {
     color: #010403
   }
   
+  .logo{
+    height: 50px;
+    color: #010403
+  }
+
   .social img {
     height: 30px;
     margin-left: 10px;
