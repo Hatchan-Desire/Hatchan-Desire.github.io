@@ -7,6 +7,6 @@
 
 ## Blogs:
 
-[2024年上半期ハマった楽曲集](Coming soon....)
+[2024年上半期ハマった楽曲集](docs/musics_e2024.md)
 
 [Proxmoxを使った仮想サーバー構築](Coming soon....)
