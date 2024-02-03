@@ -9,4 +9,4 @@
 
 [2024年上半期ハマった楽曲集](musics_e2024.md)
 
-[Proxmoxを使った仮想サーバー構築](Coming soon....)
+[Proxmoxを使った仮想サーバー構築](proxmoxve.md)
