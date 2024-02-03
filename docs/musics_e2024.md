@@ -12,7 +12,7 @@ HIMEHINA **愛包ダンスホール**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bnofYmfKLeo?si=cg1FB9GtjDwj9zAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-シャイニーカラｑ－ズ **Dye the sky. (2023 Version)**
+シャイニーカラ－ズ **Dye the sky. (2023 Version)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LdoP0Hm9H4?si=GkM6-_1iyqAI1cfF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
