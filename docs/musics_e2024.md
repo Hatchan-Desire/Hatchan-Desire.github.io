@@ -6,19 +6,19 @@
 
 CoMETIK **無自覚アプリオリ**
 
-<https://youtu.be/STM-Xhsr5HI?si=KzqJTTZZB8yKQu9z>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/STM-Xhsr5HI?si=hMM-mOHyuSMcQRzF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 HIMEHINA **愛包ダンスホール**
 
-<https://youtu.be/bnofYmfKLeo?si=r9yrlQUvWby8VF5z>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bnofYmfKLeo?si=cg1FB9GtjDwj9zAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 シャイニーカラｑ－ズ **Dye the sky. (2023 Version)**
 
-<https://youtu.be/9LdoP0Hm9H4?si=QrP37jpbHJs7J3Rg>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9LdoP0Hm9H4?si=GkM6-_1iyqAI1cfF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 塞壬唱片-MSR **Misty Memory (Night Version)**
 
-<https://youtu.be/d5q1_S6lI-0?si=KzsaW6uG8nPN1ZTS>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d5q1_S6lI-0?si=lUOvaixh3rJFeBHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Yunosuke & CircusP **Intergalactic Bound**
 
