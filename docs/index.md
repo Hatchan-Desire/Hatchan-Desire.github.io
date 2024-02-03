@@ -7,6 +7,6 @@
 
 ## Blogs:
 
-[2024年上半期ハマった楽曲集](../musics_e2024.md)
+[2024年上半期ハマった楽曲集](Hatchan-Desire.github.io/docs/musics_e2024.md)
 
 [Proxmoxを使った仮想サーバー構築](Coming soon....)
