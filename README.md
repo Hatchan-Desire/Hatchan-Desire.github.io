@@ -4,9 +4,3 @@
 
 連絡先：[Twitter(現X)](https://x.com/obukun_quality?s=20)
 
-
-## Blogs:
-
-[2024年上半期ハマった楽曲集](Coming soon....)
-
-[Proxmoxを使った仮想サーバー構築](Coming soon....)
