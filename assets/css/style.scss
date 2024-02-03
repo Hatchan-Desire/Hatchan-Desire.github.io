@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #0e4e83;
+  }
+  
+  .logo {
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    height: 50px;
+  }
+  
+  .social img {
+    height: 30px;
+    margin-left: 10px;
+  }
+  
