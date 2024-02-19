@@ -16,8 +16,8 @@ Page URL:<https://hatchan-desire.github.io>
 
 1-1. ブランチを作成する（絶対！）
 
-  Codeの画面左上の「main」ボタンを押して、「viwe all branches」->画面右上の「New branch」を推す
-![image](https://github.com/Hatchan-Desire/Hatchan-Desire.github.io/assets/75426954/1ab6869b-5f6f-4047-9645-3110bf2aa231)
+  Codeのタブの画面左上に「Branches」という項目があるのでそれをクリック。画面が移動したら右上の「New branch」を選択します。
+  ![image](https://github.com/Hatchan-Desire/Hatchan-Desire.github.io/assets/75426954/8262fda0-974a-42cf-8a6c-f0c9275a2aa7)
 
 1-2. ブランチの名前を設定してCreate new branchを選択する。Sourceはmainでよい
 
