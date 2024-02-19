@@ -5,3 +5,8 @@
 連絡先：[Twitter(現X)](https://x.com/obukun_quality?s=20)
 
 Page URL:<https://hatchan-desire.github.io>
+
+## Collaboratorsへ
+
+招待された方はリポジトリ内にファイルを追加することができます。
+
