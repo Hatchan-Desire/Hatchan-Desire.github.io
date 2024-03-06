@@ -10,5 +10,3 @@
 [はっちゃんについて　概要](selfinfo.md)
 
 [2024年上半期ハマった楽曲集](musics_e2024.md)
-
-[Proxmoxを使った仮想サーバー構築](proxmoxve.md)
